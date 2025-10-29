@@ -1,2 +1,2 @@
-# linguica-de-
-primeiro projeto simples desenvolvido em python 
+# linguica-de-🐍
+primeiro projeto simples desenvolvido em python 2023, pretendo fazer melhorias...
